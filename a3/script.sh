@@ -1,0 +1,27 @@
+#!/bin/sh
+./pfact 1
+./pfact 2
+./pfact 3
+./pfact 4
+./pfact 5
+./pfact 6
+./pfact 7
+./pfact 8
+./pfact 9
+./pfact 10
+./pfact 11
+./pfact 12
+./pfact 13
+./pfact 14
+./pfact 15
+./pfact 16
+./pfact 17
+./pfact 18
+./pfact 19
+./pfact 20
+./pfact 501
+./pfact 23
+./pfact 72
+./pfact 311
+./pfact 125
+./pfact 25
